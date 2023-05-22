@@ -6,7 +6,6 @@
 ![Issues](https://img.shields.io/github/issues/Exohayvan/Simple-Proxy-for-Scripts?style=for-the-badge)
 ![MIT License](https://img.shields.io/github/license/Exohayvan/Simple-Proxy-for-Scripts?style=for-the-badge)
 ![GitHub latest commit](https://img.shields.io/github/last-commit/Exohayvan/Simple-Proxy-for-Scripts?style=for-the-badge)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Exohayvan/Simple-Proxy-for-Scripts?style=for-the-badge)
 ![Size](https://img.shields.io/github/repo-size/Exohayvan/Simple-Proxy-for-Scripts?style=for-the-badge)
 ![Code](https://img.shields.io/github/languages/code-size/Exohayvan/Simple-Proxy-for-Scripts?style=for-the-badge)
 
