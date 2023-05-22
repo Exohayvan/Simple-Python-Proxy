@@ -1,6 +1,6 @@
 # I havent had time to update my readme lol
 
-just a little not for me later
+just a little note for me later
 
 GO :
 - main.go
@@ -15,3 +15,7 @@ Node.js :
 Ruby :
 - main.rb
 - gem install nokogiri
+
+Deno :
+- main.ts
+- deno run --allow-net proxy.ts
