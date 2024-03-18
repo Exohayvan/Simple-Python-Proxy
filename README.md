@@ -54,9 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-These scripts are designed to set the proxy info and print it. They are not
-
- standalone scripts, but are intended to be added to other pre-existing code. 
+These scripts are designed to set the proxy info and print it. They are not standalone scripts, but are intended to be added to other pre-existing code. 
 
 Scripts are available for the following languages:
 
